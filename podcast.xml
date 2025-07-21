@@ -5,7 +5,10 @@
     <link>https://madajika.github.io/my-first-page/</link>
     <description>このポッドキャストは「まだちょっと時間ある？」のメンバーシップ「時間ある会」の会員向け限定コンテンツです。</description>
     <language>ja</language>
-    <itunes:category text="Technology"/> <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://madajika.github.io/my-first-page/podcast-artwork.jpg"/>
+    <itunes:author>まだちょっと時間ある？</itunes:author>
 
     <item>
     <title>001まだチョコミントの話しします</title>
