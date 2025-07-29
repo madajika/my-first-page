@@ -9,6 +9,11 @@
     <itunes:author>★M★D★J★K★</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://madajika.github.io/my-first-page/podcast948rpnt/podcast-artwork-dark.jpg" />
+    <itunes:category text="Society & Culture">
+  <itunes:category text="Personal Journals"/>
+</itunes:category>
+<itunes:category text="Education"/>
+<itunes:category text="Health & Fitness"/>
 
     <item>
       <title>ep.001：まだチョコミントの話しします</title>
