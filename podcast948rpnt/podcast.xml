@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>ま★だ★じ★か</title>
+    <link>https://www.madajika.com</link>
+    <language>ja</language>
+    <description>note購読者限定のポッドキャストです。</description>
+    <itunes:author>M★D★J★K</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://madajika.github.io/my-first-page/podcast948rpnt/podcast-artwork.jpg" />
+
+    <item>
+      <title>ep.001：まだチョコミントの話しします</title>
+      <description>note購読者限定のポッドキャストです。</description>
+      <enclosure url="https://github.com/madajika/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3" length="21164697" type="audio/mpeg" />
+      <guid>episode1</guid>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>ep.002：右見て左見て通り過ぎて戻って横断歩道を渡りましょう</title>
+      <description>note購読者限定のポッドキャストです。</description>
+      <enclosure url="https://github.com/madajika/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3" length="21164697" type="audio/mpeg" />
+      <guid>episode2</guid>
+      <pubDate>Tue, 30 Jul 2025 12:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
