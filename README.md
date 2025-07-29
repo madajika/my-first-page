@@ -1,2 +1,2 @@
 # my-first-page
-まだじかのGitHub Pagesサイト
+ようこそ
