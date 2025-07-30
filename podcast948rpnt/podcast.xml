@@ -2,12 +2,12 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>☆ま☆だ☆じ☆か☆</title>
+    <title>MDJK</title>
     <link>https://www.madajika.com</link>
     <language>ja</language>
-    <description>☆M☆D☆J☆K☆</description>
-    <itunes:author>☆M☆D☆J☆K☆</itunes:author>
-    <itunes:summary>☆M☆D☆J☆K☆</itunes:summary>
+    <description>MDJK</description>
+    <itunes:author>MDJK</itunes:author>
+    <itunes:summary>☆MDJK☆</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://madajika.github.io/my-first-page/podcast948rpnt/podcast-artwork-dark.jpg" />
 
@@ -22,7 +22,7 @@
     <!-- エピソード 1 -->
     <item>
       <title>ep.001：まだチョコミントの話しします</title>
-      <description>☆M☆D☆J☆K☆</description>
+      <description>MDJK</description>
       <itunes:duration>11:46</itunes:duration>
       <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3"
                  length="21164697"
@@ -34,7 +34,7 @@
     <!-- エピソード 2 -->
     <item>
       <title>ep.002：右見て左見て通り過ぎて戻って横断歩道を渡りましょう</title>
-      <description>☆M☆D☆J☆K☆</description>
+      <description>MDJK</description>
       <itunes:duration>13:42</itunes:duration>
       <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep002.mp3"
                  length="24566554"
