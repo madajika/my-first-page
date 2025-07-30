@@ -1,34 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>☆ま☆だ☆じ☆か☆</title>
     <link>https://www.madajika.com</link>
     <language>ja</language>
-    <description☆M☆D☆J☆K☆</description>
+    <description>☆M☆D☆J☆K☆</description>
     <itunes:author>☆M☆D☆J☆K☆</itunes:author>
+    <itunes:summary>☆M☆D☆J☆K☆</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://madajika.github.io/my-first-page/podcast948rpnt/podcast-artwork-dark.jpg" />
+
     <itunes:category text="Society & Culture">
-  <itunes:category text="Personal Journals"/>
-</itunes:category>
-<itunes:category text="Education"/>
-<itunes:category text="Health & Fitness"/>
-<itunes:block>no</itunes:block>
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:category text="Education"/>
+    <itunes:category text="Health & Fitness"/>
+
+    <itunes:block>no</itunes:block>
+
+    <!-- エピソード 1 -->
     <item>
       <title>ep.001：まだチョコミントの話しします</title>
       <description>☆M☆D☆J☆K☆</description>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3" length="21164697" type="audio/mpeg" />
-      <guid>episode1</guid>
-      <pubDate>Sat, 2 Aug 2025 00:00:00 +0900</pubDate>
+      <itunes:duration>11:46</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3"
+                 length="21164697"
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">episode1</guid>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0900</pubDate>
     </item>
 
+    <!-- エピソード 2 -->
     <item>
       <title>ep.002：右見て左見て通り過ぎて戻って横断歩道を渡りましょう</title>
       <description>☆M☆D☆J☆K☆</description>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep002.mp3" length="24566554" type="audio/mpeg" />
-      <guid>episode2</guid>
-      <pubDate>Sat, 9 Aug 2025 00:00:00 +0900</pubDate>
+      <itunes:duration>13:42</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep002.mp3"
+                 length="24566554"
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">episode2</guid>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0900</pubDate>
     </item>
+
   </channel>
 </rss>
