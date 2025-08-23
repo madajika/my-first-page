@@ -21,7 +21,7 @@
 
     <!-- エピソード 1 -->
     <item>
-      <title>ep.001：まいばすとケンカ！まだまだチョコミントの話しします</title>
+      <title>ep.001：まだチョコミントの話しします</title>
       <description>MJ</description>
       <itunes:duration>11:46</itunes:duration>
       <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3"
@@ -29,6 +29,18 @@
                  type="audio/mpeg" />
       <guid isPermaLink="false">episode1</guid>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0900</pubDate>
+    </item>
+
+    <!-- エピソード 2 -->
+    <item>
+      <title>ep.002：右見て左見て通り過ぎて戻って横断歩道を渡りましょう</title>
+      <description>MDJK</description>
+      <itunes:duration>13:42</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep002.mp3"
+                 length="24566554"
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">episode2</guid>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0900</pubDate>
     </item>
 
   </channel>
