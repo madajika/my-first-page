@@ -43,5 +43,28 @@
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0900</pubDate>
     </item>
 
+    <!-- エピソード 3 -->
+    <item>
+      <title>ep.003：日本に帰る頃に、あのチョコミント達は</title>
+      <description>MJ</description>
+      <itunes:duration>08:06</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep003.mp3"
+                 length="19425771"
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">episode3</guid>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
+    </item>
+
+    <!-- エピソード 4 -->
+    <item>
+      <title>ep.004：メンバー限定ダジャレ</title>
+      <description>MJ</description>
+      <itunes:duration>10:35</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep003.mp3"
+                 length="25381611"
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">episode4</guid>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
