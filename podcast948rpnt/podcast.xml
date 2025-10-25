@@ -72,5 +72,16 @@
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0900</pubDate>
     </item>
 
+    <item>
+      <title>ep.006：美味しさと楽しさの話</title>
+      <description>MJ</description>
+      <itunes:duration>16:16</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep006.mp3"
+                 length="23416875"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">episode6</guid>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0900</pubDate>
+    </item>
+       
   </channel>
 </rss>
