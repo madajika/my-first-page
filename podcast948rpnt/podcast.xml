@@ -105,5 +105,16 @@
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0900</pubDate>
     </item>
        
+     <item>
+      <title>ep.009：まだじかテーマソング音頭調</title>
+      <description>MJ</description>
+      <itunes:duration>03:03</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep009.mp3"
+                 length="4412490"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">episode9</guid>
+      <pubDate>Sat, 7 Dec 2025 00:00:00 +0900</pubDate>
+    </item>
+       
   </channel>
 </rss>
