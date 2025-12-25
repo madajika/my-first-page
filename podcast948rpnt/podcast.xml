@@ -115,6 +115,17 @@
       <guid isPermaLink="false">episode9</guid>
       <pubDate>Sat, 7 Dec 2025 00:00:00 +0900</pubDate>
     </item>
+
+     <item>
+      <title>ep.010：明日のイベントについてちょっと話します</title>
+      <description>MJ</description>
+      <itunes:duration>14:19</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep010.mp3"
+                 length="20621371 "
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">episode10</guid>
+      <pubDate>Sat, 27 Dec 2025 07:00:00 +0900</pubDate>
+    </item>
        
   </channel>
 </rss>
