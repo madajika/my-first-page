@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MJ</title>
     <link>https://www.madajika.com</link>
+    <atom:link href="https://podcast.madajika.com/podcast948rpnt/podcast.xml" rel="self" type="application/rss+xml" />
     <language>ja</language>
     <description>MJ</description>
     <itunes:author>MJ</itunes:author>
     <itunes:summary>MJ</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://madajika.github.io/my-first-page/podcast948rpnt/podcast-artwork-dark.jpg"/>
-    <itunes:category text="Society & Culture">
+    <itunes:category text="Society &amp; Culture">
       <itunes:category text="Personal Journals"/>
     </itunes:category>
     <itunes:category text="Education"/>
-    <itunes:category text="Health & Fitness"/>
+    <itunes:category text="Health &amp; Fitness"/>
     <itunes:block>no</itunes:block>
 
     <item>
       <title>ep.001：まだチョコミントの話しします</title>
       <description>MJ</description>
       <itunes:duration>11:46</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3"
-                 length="21164697"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep001.mp3" length="21164697" type="audio/mpeg"/>
       <guid isPermaLink="false">episode1</guid>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0900</pubDate>
     </item>
@@ -32,9 +30,7 @@
       <title>ep.002：右見て左見て通り過ぎて戻って横断歩道を渡りましょう</title>
       <description>MJ</description>
       <itunes:duration>13:42</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep002.mp3"
-                 length="24566554"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep002.mp3" length="24566554" type="audio/mpeg"/>
       <guid isPermaLink="false">episode2</guid>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0900</pubDate>
     </item>
@@ -43,9 +39,7 @@
       <title>ep.003：日本に帰る頃に、あのチョコミント達は</title>
       <description>MJ</description>
       <itunes:duration>08:06</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep003.mp3"
-                 length="19425771"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep003.mp3" length="19425771" type="audio/mpeg"/>
       <guid isPermaLink="false">episode3</guid>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
     </item>
@@ -54,9 +48,7 @@
       <title>ep.004：メンバー限定ダジャレ</title>
       <description>MJ</description>
       <itunes:duration>10:35</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep004.mp3"
-                 length="25381611"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep004.mp3" length="25381611" type="audio/mpeg"/>
       <guid isPermaLink="false">episode4</guid>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
     </item>
@@ -65,9 +57,7 @@
       <title>ep.005：環境に適応するとは</title>
       <description>MJ</description>
       <itunes:duration>14:43</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep005.mp3"
-                 length="21200350"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep005.mp3" length="21200350" type="audio/mpeg"/>
       <guid isPermaLink="false">episode5</guid>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0900</pubDate>
     </item>
@@ -76,9 +66,7 @@
       <title>ep.006：美味しさと楽しさの話</title>
       <description>MJ</description>
       <itunes:duration>16:16</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep006.mp3"
-                 length="23416875"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep006.mp3" length="23416875" type="audio/mpeg"/>
       <guid isPermaLink="false">episode6</guid>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0900</pubDate>
     </item>
@@ -87,45 +75,36 @@
       <title>ep.007：ひたすらチョコミントアイスを食べながら話す</title>
       <description>MJ</description>
       <itunes:duration>10:01</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep007.mp3"
-                 length="14433003"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep007.mp3" length="14433003" type="audio/mpeg"/>
       <guid isPermaLink="false">episode7</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0900</pubDate>
     </item>
 
-     <item>
+    <item>
       <title>ep.008：選ばれなかったわけじゃないから</title>
       <description>MJ</description>
       <itunes:duration>18:17</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep008.mp3"
-                 length="17569935"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep008.mp3" length="17569935" type="audio/mpeg"/>
       <guid isPermaLink="false">episode8</guid>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0900</pubDate>
     </item>
-       
-     <item>
+
+    <item>
       <title>ep.009：まだじかテーマソング音頭調</title>
       <description>MJ</description>
       <itunes:duration>03:03</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep009.mp3"
-                 length="4412490"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep009.mp3" length="4412490" type="audio/mpeg"/>
       <guid isPermaLink="false">episode9</guid>
       <pubDate>Sat, 07 Dec 2025 00:00:00 +0900</pubDate>
     </item>
 
-     <item>
+    <item>
       <title>ep.010：明日のイベントについてちょっと話します</title>
       <description>MJ</description>
       <itunes:duration>14:19</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep010.mp3"
-                 length="20621371"
-                 type="audio/mpeg"/>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep010.mp3" length="20621371" type="audio/mpeg"/>
       <guid isPermaLink="false">episode10</guid>
       <pubDate>Sat, 27 Dec 2025 07:00:00 +0900</pubDate>
     </item>
-       
   </channel>
 </rss>
