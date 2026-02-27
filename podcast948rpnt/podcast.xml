@@ -124,5 +124,14 @@
       <guid isPermaLink="false">episode12</guid>
       <pubDate>Sat, 07 Feb 2026 07:00:00 +0900</pubDate>
     </item>
+
+    <item>
+      <title>ep.013：アメフトとラグビー</title>
+      <description>MJ</description>
+      <itunes:duration>18:28</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep013.mp3" length="22156909" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode13</guid>
+      <pubDate>Sat, 28 Feb 2026 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
