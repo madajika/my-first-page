@@ -133,5 +133,14 @@
       <guid isPermaLink="false">episode13</guid>
       <pubDate>Sat, 28 Feb 2026 07:00:00 +0900</pubDate>
     </item>
+
+    <item>
+      <title>ep.014：物申したいことがある</title>
+      <description>MJ</description>
+      <itunes:duration>18:15</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep014.mp3" length="21893869" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode14</guid>
+      <pubDate>Sat, 21 Mar 2026 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
