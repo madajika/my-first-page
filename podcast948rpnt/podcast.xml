@@ -142,5 +142,14 @@
       <guid isPermaLink="false">episode14</guid>
       <pubDate>Sat, 21 Mar 2026 07:00:00 +0900</pubDate>
     </item>
+
+    <item>
+      <title>ep.015：マジメに、もっと均等に平等にならないかねぇ</title>
+      <description>MJ</description>
+      <itunes:duration>11:21</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep015.mp3" length="16362331" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode15</guid>
+      <pubDate>Sat, 11  Apr 2026 07:00:00 +0900</pubDate>
+    </item>
   </channel>
 </rss>
