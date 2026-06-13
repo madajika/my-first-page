@@ -169,6 +169,15 @@
       <guid isPermaLink="false">episode17</guid>
       <pubDate>Sat, 23  May 2026 07:00:00 +0900</pubDate>
     </item>
+
+    <item>
+      <title>ep.018：LINEの返信って</title>
+      <description>MJ</description>
+      <itunes:duration>17:44</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep018.mp3" length="21271309" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode18</guid>
+      <pubDate>Sat, 13  Jun 2026 07:00:00 +0900</pubDate>
+    </item>
     
   </channel>
 </rss>
