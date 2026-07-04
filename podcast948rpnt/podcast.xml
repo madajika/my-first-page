@@ -178,15 +178,6 @@
       <guid isPermaLink="false">episode18</guid>
       <pubDate>Sat, 13  Jun 2026 07:00:00 +0900</pubDate>
     </item>
-
-    <item>
-      <title>ep.019：千円パニック</title>
-      <description>MJ</description>
-      <itunes:duration>11:28</itunes:duration>
-      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep019.mp3" length="16525021" type="audio/mpeg"/>
-      <guid isPermaLink="false">episode19</guid>
-      <pubDate>Sat, 4  Jul 2026 07:00:00 +0900</pubDate>
-    </item>
     
   </channel>
 </rss>
