@@ -196,6 +196,15 @@
       <guid isPermaLink="false">episode20</guid>
       <pubDate>Sat, 25 Jul 2026 11:40:00 +0900</pubDate>
     </item>
+
+    <item>
+      <title>ep.021：二段レジ</title>
+      <description>MJ</description>
+      <itunes:duration>18:52</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep021.mp3" length="18130544" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode21</guid>
+      <pubDate>Sat, 15 Aug 2026 07:00:00 +0900</pubDate>
+    </item>
     
   </channel>
 </rss>
