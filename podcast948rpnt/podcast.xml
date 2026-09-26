@@ -214,6 +214,15 @@
       <guid isPermaLink="false">episode22</guid>
       <pubDate>Sat, 05 Sep 2026 07:00:00 +0900</pubDate>
     </item>
+
+      <item>
+      <title>ep.023：海に行ってきた</title>
+      <description>MJ</description>
+      <itunes:duration>16:04</itunes:duration>
+      <enclosure url="https://madajika.github.io/my-first-page/podcast948rpnt/madajika_bonus_ep023.mp3" length="23144297" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode23</guid>
+      <pubDate>Sat, 26 Sep 2026 07:00:00 +0900</pubDate>
+    </item>
     
   </channel>
 </rss>
